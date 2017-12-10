@@ -37,6 +37,6 @@ y  se trabajo con media queries, segun el tamaño de los dispositivos
 
 ## *Proyecto desplegado en:*
 
-* [github](www.pagina.com "Título del enlace")
+* [github](https://github.com/wendytamara/kitten "Título del enlace")
 
-* [gh-pages](www.pagina.com "Título del enlace")
+* [gh-pages](https://wendytamara.github.io/kitten/ "Título del enlace")
