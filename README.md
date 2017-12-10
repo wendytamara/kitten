@@ -1,4 +1,4 @@
-# ** *EJERCICIO KITTEN* **
+# ***EJERCICIO KITTEN***
 
 # *Objetivo:*
 
@@ -18,7 +18,7 @@
 
 
 _________________________________________
-## ** *Trabajo realizado por Wendy Tamara* **
+## ***Trabajo realizado por Wendy Tamara***
 
 Se descargo las imagenes de
 
