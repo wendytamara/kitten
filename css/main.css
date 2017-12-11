@@ -13,7 +13,7 @@
 }
 
 .img-cat{
-  background-size: 100%;
+
   background-repeat: no-repeat;
   background-position: bottom;
   height: 100vh;
@@ -28,6 +28,7 @@
 }
 .img-cat{
   background-image: url('../assets/images/kitten-large.png');
+  background-size: 100%;
 }
 }
 
@@ -38,6 +39,7 @@
   }
   .img-cat{
     background-image: url('../assets/images/kitten-small.png');
+    background-size: 70%;
   }
 }
 
@@ -48,5 +50,6 @@
 }
 .img-cat{
   background-image: url('../assets/images/kitten-medium.png');
+  background-size: 50%;
 }
 }
